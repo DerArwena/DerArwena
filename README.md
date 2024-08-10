@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey i am Fabian and a Frontend and Backend Developer from Germany.<br><br>Project: CookieGram
+Hey i am Fabian and a Frontend and Backend Developer from Germany.<br><br>Project: CookieGram 🍪
 
 
 ## 🌐 Socials:
