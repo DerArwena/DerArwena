@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey i am Fabian and a Frontend and Backend Developer from Germany.<br><br>Project: No Zluxr<br><br>I’m currently learning: Typescript, Vue.js and React
+Hey i am Fabian and a Frontend and Backend Developer from Germany.<br><br>Project: Zluxr<br><br>I’m currently learning: Typescript, Vue.js and React
 
 
 ## 🌐 Socials:
