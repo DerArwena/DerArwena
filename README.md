@@ -4,7 +4,7 @@
 
 <h4 align="left">My Discord:</h4>
 
-[<img src="https://discord.c99.nl/widget/theme-4/1241397751644950652.png" alt="Arwena">
+[<img src="https://discord.c99.nl/widget/theme-4/1233774714904641637.png" alt="Arwena">
 ](https://discord.c99.nl/widget/theme-2/1233774714904641637.png)
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
