@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arwena</h1>
 <h3 align="center">A passionate Fullstack Developer from Germany</h3>
 
-- 🔭 I’m currently working on [Flinooa](https://Flinooa.de)
+- 🔭 I’m currently working on Nothing
 
-- 🌱 I’m currently learning **Java, Next.js and more**
+- 🌱 I’m currently learning **Nothing**
 
-- 🤝 I’m looking for help with [Flinooa](https://Flinooa.de)
+- 🤝 I’m looking for help with Nothing
 
-- 📫 How to reach me **Fabian.Schmitt@Flinooa.de**
+- 📫 How to reach me **New One Coming Soon!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
