@@ -7,8 +7,8 @@ Fullstack Developer & Content Creator
 I'm a passionate developer who loves building smart, clean, and impactful softwares. From creating sleek web apps to crafting advanced bots and automation tools.
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [Derarwena@ServerPilot.tech](mailto:Derarwena@ServerPilot.tech)
-* 🚀  I'm currently working on [ServerPilot](http://Serverpilot.tech)
+* ✉️  You can contact me at [New One is Comming]
+* 🚀  I'm currently working on [Nodedesk.de](https://Nodedesk.de)
 * 🧠  I'm learning Java & Next.Js
 
 <a href="https://www.x.com/DerArwena" target="_blank" rel="noreferrer"><img
