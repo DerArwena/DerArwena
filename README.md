@@ -8,7 +8,7 @@ I'm a passionate developer who loves building smart, clean, and impactful softwa
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [New One is Comming]
-* 🚀  I'm currently working on [Nodedesk.de](https://Nodedesk.de)
+* 🚀  I'm currently working on [Clounode.de](https://Clounode.de) & [Ascendros.dev](https://Ascendros.dev)
 * 🧠  I'm learning Java & Next.Js
 
 <a href="https://www.x.com/DerArwena" target="_blank" rel="noreferrer"><img
