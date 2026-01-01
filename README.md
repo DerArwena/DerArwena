@@ -10,7 +10,7 @@ I build smart, clean and high-impact software – from modern web apps and autom
 
 - 🌍 Based in Germany  
 - ✉️ Contact: *New contact coming soon*  
-- 🚀 Currently working on **Aveen.systems** (hosting infrastructure) & **Trixoa.eu** (AI platform)  
+- 🚀 Currently working on **Aveen.systems** (hosting infrastructure) & **Taren.dev**
 - 🧠 Currently learning **Java** & **Next.js**, with a focus on scalable web and backend architectures  
 
 ---
@@ -50,17 +50,6 @@ The focus is on a professional website, a powerful dashboard and a secure, modul
 _Last updated: 16.11.2025_
 
 ---
-
-### Trixoa.eu — Your European AI
-
-Trixoa.eu is an AI project currently in development, focused on building a modern, trustworthy and Europe-oriented AI experience.  
-The platform will combine a clean, modern website, a polished maintenance page and a tightly integrated AI backend that can be used directly via the web.
-
-- Focus: Clear UI, privacy-aware by design, reliable AI features  
-- Status: In active development (AI core + web integration are being built step by step)  
-
----
-
 ## Socials
 
 - GitHub: https://github.com/DerArwena  
