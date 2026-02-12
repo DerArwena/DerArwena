@@ -9,9 +9,9 @@ I build smart, clean and high-impact software – from modern web apps and autom
 ## About Me
 
 - 🌍 Based in Germany  
-- ✉️ Contact: *Coming soon*  
+- ✉️ Contact: Fabian.Schmitt@outlook.com  
 - 🚀 Currently working on **Aveen.systems** and **Eh-stats.com**
-- 🧠 Currently learning **Java** & **Next.js** with a focus on scalable web and backend architectures  
+- 🧠 Currently learning no Coding Languages
 
 ---
 
