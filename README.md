@@ -19,7 +19,7 @@ I build smart, clean and high-impact software – from modern web apps and autom
 
 ### Discord
 
-![Discord](https://dcbadge.vercel.app/api/shield/1233774714904641637?theme=default-inverted&presence=true)
+![Discord](https://dcbadge.vercel.app/api/shield/1233774714904641637?theme=blurple)
 
 ### Socials
 
