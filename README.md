@@ -33,11 +33,11 @@ I build smart, clean and high-impact software – from modern web apps and autom
 
 ### Skill Icons
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,c,nextjs,svelte,tailwind,nodejs,postgres,linux,docker,raspberrypi,git,figma&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,lua,c,nextjs,svelte,tailwind,nodejs,postgres,linux,docker,raspberrypi,git,figma&perline=9)](https://skillicons.dev)
 
 ### Summary
 
-- **Languages & Core:** C, Java, PHP, Python, JavaScript  
+- **Languages & Core:** C, Java, PHP, Python, JavaScript, Lua
 - **Web:** HTML, CSS, TailwindCSS, Svelte, Next.js  
 - **Backend & Infra:** Node.js, PostgreSQL, Linux, Raspberry Pi, self-hosted servers / Docker  
 - **Tools & Design:** Git, Figma  
