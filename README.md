@@ -9,8 +9,8 @@ I build smart, clean and high-impact software – from modern web apps and autom
 ## About Me
 
 - 🌍 Based in Germany  
-- ✉️ Contact: Fabian.Schmitt@outlook.com  
-- 🚀 Currently working on Bueapp.com
+- ✉️ Contact: Coming soon
+- 🚀 Currently working on ?
 - 🧠 Currently learning no Coding Languages
 
 ---
