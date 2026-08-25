@@ -10,7 +10,7 @@ I build smart, clean and high-impact software – from modern web apps and autom
 
 - 🌍 Based in Germany  
 - ✉️ Contact: Coming soon
-- 🚀 Currently working on ?
+- 🚀 Currently working on @Flinour | [Flinour.eu](https://Flinour.eu/)
 - 🧠 Currently learning no Coding Languages
 
 ---
